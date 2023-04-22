@@ -1,0 +1,4 @@
+[console_scripts]
+servo = py_pubsub.servolisten:main
+talker = py_pubsub.publisher_member_function:main
+

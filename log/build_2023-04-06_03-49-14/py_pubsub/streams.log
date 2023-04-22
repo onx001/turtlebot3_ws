@@ -1,0 +1,26 @@
+[3.875s] Invoking command in '/home/ubuntu/turtlebot3_ws/src/py_pubsub': PYTHONPATH=/home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages: /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/ubuntu/turtlebot3_ws/build/py_pubsub/build install --prefix /home/ubuntu/turtlebot3_ws/install/py_pubsub --record /home/ubuntu/turtlebot3_ws/build/py_pubsub/install.log --single-version-externally-managed
+[7.369s] running egg_info
+[7.377s] writing ../../build/py_pubsub/py_pubsub.egg-info/PKG-INFO
+[7.381s] writing dependency_links to ../../build/py_pubsub/py_pubsub.egg-info/dependency_links.txt
+[7.384s] writing entry points to ../../build/py_pubsub/py_pubsub.egg-info/entry_points.txt
+[7.388s] writing requirements to ../../build/py_pubsub/py_pubsub.egg-info/requires.txt
+[7.391s] writing top-level names to ../../build/py_pubsub/py_pubsub.egg-info/top_level.txt
+[8.022s] reading manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[8.038s] writing manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[8.040s] running build
+[8.042s] running build_py
+[8.045s] running install
+[8.056s] running install_lib
+[8.077s] byte-compiling /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/publisher_member_function.py to publisher_member_function.cpython-38.pyc
+[8.097s] Sorry: IndentationError: expected an indented block (publisher_member_function.py, line 30)
+[8.100s] byte-compiling /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/servolisten.py to servolisten.cpython-38.pyc
+[8.102s] running install_data
+[8.104s] Sorry: IndentationError: unexpected indent (servolisten.py, line 1)
+[8.107s] running install_egg_info
+[8.128s] removing '/home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub-0.0.0-py3.8.egg-info' (and everything under it)
+[8.134s] Copying ../../build/py_pubsub/py_pubsub.egg-info to /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub-0.0.0-py3.8.egg-info
+[8.157s] running install_scripts
+[8.430s] Installing servo script to /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/py_pubsub
+[8.439s] Installing talker script to /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/py_pubsub
+[8.444s] writing list of installed files to '/home/ubuntu/turtlebot3_ws/build/py_pubsub/install.log'
+[8.801s] Invoked command in '/home/ubuntu/turtlebot3_ws/src/py_pubsub' returned '0': PYTHONPATH=/home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages: /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/ubuntu/turtlebot3_ws/build/py_pubsub/build install --prefix /home/ubuntu/turtlebot3_ws/install/py_pubsub --record /home/ubuntu/turtlebot3_ws/build/py_pubsub/install.log --single-version-externally-managed

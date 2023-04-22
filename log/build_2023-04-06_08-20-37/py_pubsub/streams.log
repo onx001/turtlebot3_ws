@@ -1,0 +1,45 @@
+[4.983s] Invoking command in '/home/ubuntu/turtlebot3_ws/src/py_pubsub': PYTHONPATH=/home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages: /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/ubuntu/turtlebot3_ws/build/py_pubsub/build install --prefix /home/ubuntu/turtlebot3_ws/install/py_pubsub --record /home/ubuntu/turtlebot3_ws/build/py_pubsub/install.log --single-version-externally-managed
+[9.466s] running egg_info
+[9.477s] writing ../../build/py_pubsub/py_pubsub.egg-info/PKG-INFO
+[9.484s] writing dependency_links to ../../build/py_pubsub/py_pubsub.egg-info/dependency_links.txt
+[9.492s] writing entry points to ../../build/py_pubsub/py_pubsub.egg-info/entry_points.txt
+[9.495s] writing requirements to ../../build/py_pubsub/py_pubsub.egg-info/requires.txt
+[9.498s] writing top-level names to ../../build/py_pubsub/py_pubsub.egg-info/top_level.txt
+[10.358s] reading manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[10.392s] writing manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[10.397s] running build
+[10.401s] running build_py
+[10.404s] running install
+[10.435s] running install_lib
+[10.441s] copying /home/ubuntu/turtlebot3_ws/build/py_pubsub/build/lib/py_pubsub/servolisten.py -> /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub
+[10.454s] copying /home/ubuntu/turtlebot3_ws/build/py_pubsub/build/lib/py_pubsub/log/latest/events.log -> /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/log/latest
+[10.459s] copying /home/ubuntu/turtlebot3_ws/build/py_pubsub/build/lib/py_pubsub/log/latest/logger_all.log -> /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/log/latest
+[10.475s] copying /home/ubuntu/turtlebot3_ws/build/py_pubsub/build/lib/py_pubsub/log/latest_build/events.log -> /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/log/latest_build
+[10.483s] copying /home/ubuntu/turtlebot3_ws/build/py_pubsub/build/lib/py_pubsub/log/latest_build/logger_all.log -> /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/log/latest_build
+[10.487s] copying /home/ubuntu/turtlebot3_ws/build/py_pubsub/build/lib/py_pubsub/log/COLCON_IGNORE -> /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/log
+[10.499s] creating /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/log/build_2023-04-06_08-20-13
+[10.506s] copying /home/ubuntu/turtlebot3_ws/build/py_pubsub/build/lib/py_pubsub/log/build_2023-04-06_08-20-13/events.log -> /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/log/build_2023-04-06_08-20-13
+[10.512s] copying /home/ubuntu/turtlebot3_ws/build/py_pubsub/build/lib/py_pubsub/log/build_2023-04-06_08-20-13/logger_all.log -> /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/log/build_2023-04-06_08-20-13
+[10.515s] copying /home/ubuntu/turtlebot3_ws/build/py_pubsub/build/lib/py_pubsub/install/setup.ps1 -> /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/install
+[10.519s] copying /home/ubuntu/turtlebot3_ws/build/py_pubsub/build/lib/py_pubsub/install/_local_setup_util_ps1.py -> /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/install
+[10.521s] copying /home/ubuntu/turtlebot3_ws/build/py_pubsub/build/lib/py_pubsub/install/local_setup.zsh -> /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/install
+[10.525s] copying /home/ubuntu/turtlebot3_ws/build/py_pubsub/build/lib/py_pubsub/install/local_setup.bash -> /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/install
+[10.528s] copying /home/ubuntu/turtlebot3_ws/build/py_pubsub/build/lib/py_pubsub/install/local_setup.sh -> /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/install
+[10.530s] copying /home/ubuntu/turtlebot3_ws/build/py_pubsub/build/lib/py_pubsub/install/_local_setup_util_sh.py -> /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/install
+[10.541s] copying /home/ubuntu/turtlebot3_ws/build/py_pubsub/build/lib/py_pubsub/install/local_setup.ps1 -> /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/install
+[10.546s] copying /home/ubuntu/turtlebot3_ws/build/py_pubsub/build/lib/py_pubsub/install/setup.bash -> /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/install
+[10.551s] copying /home/ubuntu/turtlebot3_ws/build/py_pubsub/build/lib/py_pubsub/install/setup.sh -> /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/install
+[10.555s] copying /home/ubuntu/turtlebot3_ws/build/py_pubsub/build/lib/py_pubsub/install/setup.zsh -> /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/install
+[10.568s] byte-compiling /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/servolisten.py to servolisten.cpython-38.pyc
+[10.598s] Sorry: TabError: inconsistent use of tabs and spaces in indentation (servolisten.py, line 96)
+[10.601s] byte-compiling /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/install/_local_setup_util_ps1.py to _local_setup_util_ps1.cpython-38.pyc
+[10.639s] byte-compiling /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/install/_local_setup_util_sh.py to _local_setup_util_sh.cpython-38.pyc
+[10.682s] running install_data
+[10.691s] running install_egg_info
+[10.706s] removing '/home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub-0.0.0-py3.8.egg-info' (and everything under it)
+[10.715s] Copying ../../build/py_pubsub/py_pubsub.egg-info to /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub-0.0.0-py3.8.egg-info
+[10.741s] running install_scripts
+[11.093s] Installing servo script to /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/py_pubsub
+[11.099s] Installing talker script to /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/py_pubsub
+[11.107s] writing list of installed files to '/home/ubuntu/turtlebot3_ws/build/py_pubsub/install.log'
+[11.588s] Invoked command in '/home/ubuntu/turtlebot3_ws/src/py_pubsub' returned '0': PYTHONPATH=/home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages: /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/ubuntu/turtlebot3_ws/build/py_pubsub/build install --prefix /home/ubuntu/turtlebot3_ws/install/py_pubsub --record /home/ubuntu/turtlebot3_ws/build/py_pubsub/install.log --single-version-externally-managed

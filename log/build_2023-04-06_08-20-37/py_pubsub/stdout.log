@@ -1,0 +1,42 @@
+running egg_info
+writing ../../build/py_pubsub/py_pubsub.egg-info/PKG-INFO
+writing dependency_links to ../../build/py_pubsub/py_pubsub.egg-info/dependency_links.txt
+writing entry points to ../../build/py_pubsub/py_pubsub.egg-info/entry_points.txt
+writing requirements to ../../build/py_pubsub/py_pubsub.egg-info/requires.txt
+writing top-level names to ../../build/py_pubsub/py_pubsub.egg-info/top_level.txt
+reading manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+writing manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+copying /home/ubuntu/turtlebot3_ws/build/py_pubsub/build/lib/py_pubsub/servolisten.py -> /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub
+copying /home/ubuntu/turtlebot3_ws/build/py_pubsub/build/lib/py_pubsub/log/latest/events.log -> /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/log/latest
+copying /home/ubuntu/turtlebot3_ws/build/py_pubsub/build/lib/py_pubsub/log/latest/logger_all.log -> /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/log/latest
+copying /home/ubuntu/turtlebot3_ws/build/py_pubsub/build/lib/py_pubsub/log/latest_build/events.log -> /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/log/latest_build
+copying /home/ubuntu/turtlebot3_ws/build/py_pubsub/build/lib/py_pubsub/log/latest_build/logger_all.log -> /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/log/latest_build
+copying /home/ubuntu/turtlebot3_ws/build/py_pubsub/build/lib/py_pubsub/log/COLCON_IGNORE -> /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/log
+creating /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/log/build_2023-04-06_08-20-13
+copying /home/ubuntu/turtlebot3_ws/build/py_pubsub/build/lib/py_pubsub/log/build_2023-04-06_08-20-13/events.log -> /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/log/build_2023-04-06_08-20-13
+copying /home/ubuntu/turtlebot3_ws/build/py_pubsub/build/lib/py_pubsub/log/build_2023-04-06_08-20-13/logger_all.log -> /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/log/build_2023-04-06_08-20-13
+copying /home/ubuntu/turtlebot3_ws/build/py_pubsub/build/lib/py_pubsub/install/setup.ps1 -> /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/install
+copying /home/ubuntu/turtlebot3_ws/build/py_pubsub/build/lib/py_pubsub/install/_local_setup_util_ps1.py -> /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/install
+copying /home/ubuntu/turtlebot3_ws/build/py_pubsub/build/lib/py_pubsub/install/local_setup.zsh -> /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/install
+copying /home/ubuntu/turtlebot3_ws/build/py_pubsub/build/lib/py_pubsub/install/local_setup.bash -> /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/install
+copying /home/ubuntu/turtlebot3_ws/build/py_pubsub/build/lib/py_pubsub/install/local_setup.sh -> /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/install
+copying /home/ubuntu/turtlebot3_ws/build/py_pubsub/build/lib/py_pubsub/install/_local_setup_util_sh.py -> /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/install
+copying /home/ubuntu/turtlebot3_ws/build/py_pubsub/build/lib/py_pubsub/install/local_setup.ps1 -> /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/install
+copying /home/ubuntu/turtlebot3_ws/build/py_pubsub/build/lib/py_pubsub/install/setup.bash -> /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/install
+copying /home/ubuntu/turtlebot3_ws/build/py_pubsub/build/lib/py_pubsub/install/setup.sh -> /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/install
+copying /home/ubuntu/turtlebot3_ws/build/py_pubsub/build/lib/py_pubsub/install/setup.zsh -> /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/install
+byte-compiling /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/servolisten.py to servolisten.cpython-38.pyc
+byte-compiling /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/install/_local_setup_util_ps1.py to _local_setup_util_ps1.cpython-38.pyc
+byte-compiling /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/install/_local_setup_util_sh.py to _local_setup_util_sh.cpython-38.pyc
+running install_data
+running install_egg_info
+removing '/home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub-0.0.0-py3.8.egg-info' (and everything under it)
+Copying ../../build/py_pubsub/py_pubsub.egg-info to /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub-0.0.0-py3.8.egg-info
+running install_scripts
+Installing servo script to /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/py_pubsub
+Installing talker script to /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/py_pubsub
+writing list of installed files to '/home/ubuntu/turtlebot3_ws/build/py_pubsub/install.log'

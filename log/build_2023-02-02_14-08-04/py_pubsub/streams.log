@@ -1,0 +1,24 @@
+[4.718s] Invoking command in '/home/ubuntu/turtlebot3_ws/src/py_pubsub': PYTHONPATH=/home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages: /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/ubuntu/turtlebot3_ws/build/py_pubsub/build install --prefix /home/ubuntu/turtlebot3_ws/install/py_pubsub --record /home/ubuntu/turtlebot3_ws/build/py_pubsub/install.log --single-version-externally-managed
+[8.964s] running egg_info
+[8.976s] writing ../../build/py_pubsub/py_pubsub.egg-info/PKG-INFO
+[8.984s] writing dependency_links to ../../build/py_pubsub/py_pubsub.egg-info/dependency_links.txt
+[8.990s] writing entry points to ../../build/py_pubsub/py_pubsub.egg-info/entry_points.txt
+[8.996s] writing requirements to ../../build/py_pubsub/py_pubsub.egg-info/requires.txt
+[9.011s] writing top-level names to ../../build/py_pubsub/py_pubsub.egg-info/top_level.txt
+[9.733s] reading manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[9.759s] writing manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[9.762s] running build
+[9.767s] running build_py
+[9.770s] running install
+[9.779s] running install_lib
+[9.816s] copying /home/ubuntu/turtlebot3_ws/build/py_pubsub/build/lib/py_pubsub/servolisten.py.save -> /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub
+[9.819s] byte-compiling /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/servolisten.py to servolisten.cpython-38.pyc
+[9.840s] running install_data
+[9.855s] running install_egg_info
+[9.874s] removing '/home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub-0.0.0-py3.8.egg-info' (and everything under it)
+[9.881s] Copying ../../build/py_pubsub/py_pubsub.egg-info to /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub-0.0.0-py3.8.egg-info
+[9.914s] running install_scripts
+[10.226s] Installing servo script to /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/py_pubsub
+[10.230s] Installing talker script to /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/py_pubsub
+[10.235s] writing list of installed files to '/home/ubuntu/turtlebot3_ws/build/py_pubsub/install.log'
+[10.663s] Invoked command in '/home/ubuntu/turtlebot3_ws/src/py_pubsub' returned '0': PYTHONPATH=/home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages: /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/ubuntu/turtlebot3_ws/build/py_pubsub/build install --prefix /home/ubuntu/turtlebot3_ws/install/py_pubsub --record /home/ubuntu/turtlebot3_ws/build/py_pubsub/install.log --single-version-externally-managed

@@ -1,0 +1,130 @@
+[0.000000] (-) TimerEvent: {}
+[0.003112] (-) JobUnselected: {'identifier': 'turtlebot3'}
+[0.004162] (-) JobUnselected: {'identifier': 'turtlebot3_bringup'}
+[0.006800] (-) JobUnselected: {'identifier': 'turtlebot3_description'}
+[0.008983] (-) JobUnselected: {'identifier': 'turtlebot3_example'}
+[0.012175] (-) JobUnselected: {'identifier': 'turtlebot3_node'}
+[0.012945] (-) JobUnselected: {'identifier': 'turtlebot3_teleop'}
+[0.013591] (py_pubsub) JobQueued: {'identifier': 'py_pubsub', 'dependencies': OrderedDict()}
+[0.014054] (py_pubsub) JobStarted: {'identifier': 'py_pubsub'}
+[0.096724] (-) TimerEvent: {}
+[0.199154] (-) TimerEvent: {}
+[0.306433] (-) TimerEvent: {}
+[0.408761] (-) TimerEvent: {}
+[0.510568] (-) TimerEvent: {}
+[0.612436] (-) TimerEvent: {}
+[0.714263] (-) TimerEvent: {}
+[0.816083] (-) TimerEvent: {}
+[0.917895] (-) TimerEvent: {}
+[1.019561] (-) TimerEvent: {}
+[1.121459] (-) TimerEvent: {}
+[1.223287] (-) TimerEvent: {}
+[1.324972] (-) TimerEvent: {}
+[1.426771] (-) TimerEvent: {}
+[1.528549] (-) TimerEvent: {}
+[1.630373] (-) TimerEvent: {}
+[1.732140] (-) TimerEvent: {}
+[1.833971] (-) TimerEvent: {}
+[1.935717] (-) TimerEvent: {}
+[2.037621] (-) TimerEvent: {}
+[2.139445] (-) TimerEvent: {}
+[2.241229] (-) TimerEvent: {}
+[2.342938] (-) TimerEvent: {}
+[2.444784] (-) TimerEvent: {}
+[2.546541] (-) TimerEvent: {}
+[2.648380] (-) TimerEvent: {}
+[2.750236] (-) TimerEvent: {}
+[2.852072] (-) TimerEvent: {}
+[2.953925] (-) TimerEvent: {}
+[3.055623] (-) TimerEvent: {}
+[3.157394] (-) TimerEvent: {}
+[3.259132] (-) TimerEvent: {}
+[3.361061] (-) TimerEvent: {}
+[3.463124] (-) TimerEvent: {}
+[3.565257] (-) TimerEvent: {}
+[3.625199] (py_pubsub) Command: {'cmd': ['/usr/bin/python3', 'setup.py', 'egg_info', '--egg-base', '../../build/py_pubsub', 'build', '--build-base', '/home/ubuntu/turtlebot3_ws/build/py_pubsub/build', 'install', '--prefix', '/home/ubuntu/turtlebot3_ws/install/py_pubsub', '--record', '/home/ubuntu/turtlebot3_ws/build/py_pubsub/install.log', '--single-version-externally-managed'], 'cwd': '/home/ubuntu/turtlebot3_ws/src/py_pubsub', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'ubuntu', 'SSH_CLIENT': '192.168.55.107 50652 22', 'XDG_SESSION_TYPE': 'tty', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/lib/aarch64-linux-gnu:/opt/ros/foxy/lib', 'MOTD_SHOWN': 'pam', 'HOME': '/home/ubuntu', 'OLDPWD': '/home/ubuntu/turtlebot3_ws/src/py_pubsub', 'SSH_TTY': '/dev/pts/0', 'ROS_PYTHON_VERSION': '3', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLCON_PREFIX_PATH': '/home/ubuntu/turtlebot3_ws/install', 'ROS_DISTRO': 'foxy', 'LOGNAME': 'ubuntu', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'TERM': 'xterm-256color', 'XDG_SESSION_ID': '4', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/opt/ros/foxy/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin', 'XDG_RUNTIME_DIR': '/run/user/1000', 'LANG': 'en_US.UTF-8', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'ROS_DOMAIN_ID': '33', 'AMENT_PREFIX_PATH': '/home/ubuntu/turtlebot3_ws/install/turtlebot3:/home/ubuntu/turtlebot3_ws/install/turtlebot3_teleop:/home/ubuntu/turtlebot3_ws/install/turtlebot3_bringup:/home/ubuntu/turtlebot3_ws/install/turtlebot3_node:/home/ubuntu/turtlebot3_ws/install/turtlebot3_example:/home/ubuntu/turtlebot3_ws/install/turtlebot3_description:/opt/ros/foxy', 'SHELL': '/bin/bash', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'PWD': '/home/ubuntu/turtlebot3_ws/build/py_pubsub', 'OPENCR_PORT': '/dev/ttyACM0', 'TURTLEBOT3_MODEL': 'burger', 'LC_ALL': 'en_US.UTF-8', 'SSH_CONNECTION': '192.168.55.107 50652 192.168.55.4 22', 'XDG_DATA_DIRS': '/usr/local/share:/usr/share:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages:/home/ubuntu/turtlebot3_ws/build/turtlebot3_teleop:/home/ubuntu/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.8/site-packages:/home/ubuntu/turtlebot3_ws/build/turtlebot3_example:/home/ubuntu/turtlebot3_ws/install/turtlebot3_example/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages', 'COLCON': '1', 'CMAKE_PREFIX_PATH': '/home/ubuntu/turtlebot3_ws/install/turtlebot3:/home/ubuntu/turtlebot3_ws/install/turtlebot3_bringup:/home/ubuntu/turtlebot3_ws/install/turtlebot3_node:/home/ubuntu/turtlebot3_ws/install/turtlebot3_description'}, 'shell': False}
+[3.666735] (-) TimerEvent: {}
+[3.770263] (-) TimerEvent: {}
+[3.872346] (-) TimerEvent: {}
+[4.013751] (-) TimerEvent: {}
+[4.115431] (-) TimerEvent: {}
+[4.217270] (-) TimerEvent: {}
+[4.318939] (-) TimerEvent: {}
+[4.420660] (-) TimerEvent: {}
+[4.522523] (-) TimerEvent: {}
+[4.624264] (-) TimerEvent: {}
+[4.726175] (-) TimerEvent: {}
+[4.827938] (-) TimerEvent: {}
+[4.929769] (-) TimerEvent: {}
+[5.031507] (-) TimerEvent: {}
+[5.133324] (-) TimerEvent: {}
+[5.235044] (-) TimerEvent: {}
+[5.336913] (-) TimerEvent: {}
+[5.438741] (-) TimerEvent: {}
+[5.540622] (-) TimerEvent: {}
+[5.642465] (-) TimerEvent: {}
+[5.744197] (-) TimerEvent: {}
+[5.845987] (-) TimerEvent: {}
+[5.947788] (-) TimerEvent: {}
+[6.049570] (-) TimerEvent: {}
+[6.151251] (-) TimerEvent: {}
+[6.253045] (-) TimerEvent: {}
+[6.354898] (-) TimerEvent: {}
+[6.456761] (-) TimerEvent: {}
+[6.558700] (-) TimerEvent: {}
+[6.660535] (-) TimerEvent: {}
+[6.762358] (-) TimerEvent: {}
+[6.849795] (py_pubsub) StdoutLine: {'line': b'running egg_info\n'}
+[6.857027] (py_pubsub) StdoutLine: {'line': b'creating ../../build/py_pubsub/py_pubsub.egg-info\n'}
+[6.859186] (py_pubsub) StdoutLine: {'line': b'writing ../../build/py_pubsub/py_pubsub.egg-info/PKG-INFO\n'}
+[6.862210] (py_pubsub) StdoutLine: {'line': b'writing dependency_links to ../../build/py_pubsub/py_pubsub.egg-info/dependency_links.txt\n'}
+[6.863933] (-) TimerEvent: {}
+[6.865741] (py_pubsub) StdoutLine: {'line': b'writing entry points to ../../build/py_pubsub/py_pubsub.egg-info/entry_points.txt\n'}
+[6.868170] (py_pubsub) StdoutLine: {'line': b'writing requirements to ../../build/py_pubsub/py_pubsub.egg-info/requires.txt\n'}
+[6.870005] (py_pubsub) StdoutLine: {'line': b'writing top-level names to ../../build/py_pubsub/py_pubsub.egg-info/top_level.txt\n'}
+[6.899033] (py_pubsub) StdoutLine: {'line': b"writing manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'\n"}
+[6.964363] (-) TimerEvent: {}
+[7.066196] (-) TimerEvent: {}
+[7.168019] (-) TimerEvent: {}
+[7.269851] (-) TimerEvent: {}
+[7.371533] (-) TimerEvent: {}
+[7.473404] (-) TimerEvent: {}
+[7.483632] (py_pubsub) StdoutLine: {'line': b"reading manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'\n"}
+[7.495945] (py_pubsub) StdoutLine: {'line': b"writing manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'\n"}
+[7.498348] (py_pubsub) StdoutLine: {'line': b'running build\n'}
+[7.500816] (py_pubsub) StdoutLine: {'line': b'running build_py\n'}
+[7.503313] (py_pubsub) StdoutLine: {'line': b'creating /home/ubuntu/turtlebot3_ws/build/py_pubsub/build\n'}
+[7.504946] (py_pubsub) StdoutLine: {'line': b'creating /home/ubuntu/turtlebot3_ws/build/py_pubsub/build/lib\n'}
+[7.507214] (py_pubsub) StdoutLine: {'line': b'creating /home/ubuntu/turtlebot3_ws/build/py_pubsub/build/lib/py_pubsub\n'}
+[7.509082] (py_pubsub) StdoutLine: {'line': b'copying py_pubsub/publisher_member_function.py -> /home/ubuntu/turtlebot3_ws/build/py_pubsub/build/lib/py_pubsub\n'}
+[7.510798] (py_pubsub) StdoutLine: {'line': b'copying py_pubsub/__init__.py -> /home/ubuntu/turtlebot3_ws/build/py_pubsub/build/lib/py_pubsub\n'}
+[7.512232] (py_pubsub) StdoutLine: {'line': b'running install\n'}
+[7.522753] (py_pubsub) StdoutLine: {'line': b'running install_lib\n'}
+[7.539770] (py_pubsub) StdoutLine: {'line': b'creating /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub\n'}
+[7.541965] (py_pubsub) StdoutLine: {'line': b'copying /home/ubuntu/turtlebot3_ws/build/py_pubsub/build/lib/py_pubsub/publisher_member_function.py -> /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub\n'}
+[7.543881] (py_pubsub) StdoutLine: {'line': b'copying /home/ubuntu/turtlebot3_ws/build/py_pubsub/build/lib/py_pubsub/__init__.py -> /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub\n'}
+[7.551672] (py_pubsub) StdoutLine: {'line': b'byte-compiling /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/publisher_member_function.py to publisher_member_function.cpython-38.pyc\n'}
+[7.573221] (py_pubsub) StdoutLine: {'line': b'byte-compiling /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/__init__.py to __init__.cpython-38.pyc\n'}
+[7.574998] (-) TimerEvent: {}
+[7.576631] (py_pubsub) StdoutLine: {'line': b'running install_data\n'}
+[7.584130] (py_pubsub) StdoutLine: {'line': b'creating /home/ubuntu/turtlebot3_ws/install/py_pubsub/share/ament_index\n'}
+[7.586553] (py_pubsub) StdoutLine: {'line': b'creating /home/ubuntu/turtlebot3_ws/install/py_pubsub/share/ament_index/resource_index\n'}
+[7.588431] (py_pubsub) StdoutLine: {'line': b'creating /home/ubuntu/turtlebot3_ws/install/py_pubsub/share/ament_index/resource_index/packages\n'}
+[7.590532] (py_pubsub) StdoutLine: {'line': b'copying resource/py_pubsub -> /home/ubuntu/turtlebot3_ws/install/py_pubsub/share/ament_index/resource_index/packages\n'}
+[7.592399] (py_pubsub) StdoutLine: {'line': b'copying package.xml -> /home/ubuntu/turtlebot3_ws/install/py_pubsub/share/py_pubsub\n'}
+[7.594220] (py_pubsub) StdoutLine: {'line': b'running install_egg_info\n'}
+[7.616780] (py_pubsub) StdoutLine: {'line': b'Copying ../../build/py_pubsub/py_pubsub.egg-info to /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub-0.0.0-py3.8.egg-info\n'}
+[7.634361] (py_pubsub) StdoutLine: {'line': b'running install_scripts\n'}
+[7.675373] (-) TimerEvent: {}
+[7.777333] (-) TimerEvent: {}
+[7.879092] (-) TimerEvent: {}
+[7.898592] (py_pubsub) StdoutLine: {'line': b'Installing talker script to /home/ubuntu/turtlebot3_ws/install/py_pubsub/lib/py_pubsub\n'}
+[7.902989] (py_pubsub) StdoutLine: {'line': b"writing list of installed files to '/home/ubuntu/turtlebot3_ws/build/py_pubsub/install.log'\n"}
+[7.979521] (-) TimerEvent: {}
+[8.081556] (-) TimerEvent: {}
+[8.183508] (-) TimerEvent: {}
+[8.195356] (py_pubsub) CommandEnded: {'returncode': 0}
+[8.283831] (-) TimerEvent: {}
+[8.391065] (-) TimerEvent: {}
+[8.414152] (py_pubsub) JobEnded: {'identifier': 'py_pubsub', 'rc': 0}
+[8.422761] (-) EventReactorShutdown: {}
